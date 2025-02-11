@@ -1,6 +1,6 @@
 ## Fundraising System API
 
-This project is an API (Application Programming Interface) for a fundraising system developed using ASP.NET Core. The project aims to manage donations, projects, and users while providing high security and scalability.
+This Project is an API (Application Programming Interface) for a fundraising system developed using ASP.NET Core. The project aims to manage donations, projects, and users while providing high security and scalability.
 
 ## Overview
 
